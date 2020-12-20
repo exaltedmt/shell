@@ -1,10 +1,4 @@
-# Project 3
-
-Dustin Nguyen
-
-Trevin Metcalf
-
-Royce Harley
+# Shell
 
 ## FINISHED
 
